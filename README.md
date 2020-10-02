@@ -5,6 +5,3 @@ React app to search Github profiles. This app uses the Context API along with th
 
 
 
-## App preview
-
-<img src="https://github.com/mor-solomonov/Github-Finder/blob/master/Animated%20GIF.gif?raw=true" width= "800"/>
