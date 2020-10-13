@@ -3,7 +3,7 @@
 <br/> 
 Github Finder is a React app that searches for Github profiles and shows the profile details.
 
-<br/>
+<br/><br/> 
 
 ## App preview
 
